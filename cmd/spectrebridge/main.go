@@ -8,7 +8,6 @@ import (
 	"path"
 	"time"
 
-	"github.com/GRinvestPOOL/spectre-stratum-bridge/src/spectrestratum"
 	"gopkg.in/yaml.v2"
 )
 
